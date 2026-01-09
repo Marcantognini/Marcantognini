@@ -7,6 +7,7 @@ Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación
 - Estoy aprendiendo de forma autodidacta:
 	- Desarrollo web
 	- Python (para luego aplicar a IA agents)
+ 		 
 - :bulb: Estoy entusiasmado por seguir progresando y ser desarrollador full-stack.
 
 ## Habilidades:
@@ -17,7 +18,6 @@ Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="">
 </span>
 
 <h4> Bases de datos </h4>
@@ -30,19 +30,16 @@ Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-
-<h4> Other Tools and Technologies </h4>
+<h4> Aprendiendo... </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-
 </span>    
 
 <hr>
 <p align="center">
    <br>
 <br>	
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:agustinguerrero5454@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
 
