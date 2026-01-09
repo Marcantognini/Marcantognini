@@ -1,6 +1,6 @@
 
 ### Hola! Soy Agustín Marcantognini Guerrero
-<h3>&#128187;</h3>
+
 🎓 Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación en UTN.
 
 ⭐- Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
@@ -10,7 +10,7 @@
  		 
 - :bulb: Estoy entusiasmado por seguir progresando y ser desarrollador full-stack.
 
-## Habilidades:
+## 💻 Habilidades:
 
 <h4> Languages </h4>
 <span> 
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-🔋<h4> Aprendiendo... </h4>
+<h4> 🔋 Aprendiendo... </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>    
