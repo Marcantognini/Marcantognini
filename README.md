@@ -1,9 +1,9 @@
 
 ### Hola! Soy Agustín Marcantognini Guerrero
 <h3>&#128187;</h3>
-Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación en UTN.
+🎓 Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación en UTN.
 
-- Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
+⭐- Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
 - Estoy aprendiendo de forma autodidacta:
 	- Desarrollo web
 	- Python (para luego aplicar a IA agents)
@@ -22,7 +22,7 @@ Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación
 
 <h4> Bases de datos </h4>
 <span>
-	<h3> &#128202;</h3>
+
  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
 </span>
 
@@ -31,7 +31,7 @@ Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<h4> Aprendiendo... </h4>
+🔋<h4> Aprendiendo... </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>    
