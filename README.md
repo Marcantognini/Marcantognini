@@ -22,6 +22,7 @@ Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación
 
 <h4> Bases de datos </h4>
 <span>
+	<h3> &#128202;</h3>
  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
 </span>
 
