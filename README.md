@@ -1,6 +1,6 @@
 
 ### Hola! Soy Agustín Marcantognini Guerrero
-
+<img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white">
 Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación en UTN.
 
 - Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
