@@ -1,7 +1,7 @@
 
-### Hola! Soy Agustín Marcantognini Guerrero
+### Hola! Soy Agustín
 
-🎓 Soy estudiante del segundo año de la Tecnicatura Universitaria en Programación en UTN.
+🎓 Estudiante de segundo año de la Tecnicatura Universitaria en Programación en la UTN.
 
 ⭐- Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
 - Estoy aprendiendo de forma autodidacta:
