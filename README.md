@@ -6,7 +6,7 @@
 ⭐- Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
 - Estoy aprendiendo de forma autodidacta:
 	- Desarrollo web
-	- Python (para luego aplicar a IA agents)
+	- Python
  		 
 - :bulb: Estoy entusiasmado por seguir progresando y ser desarrollador full-stack.
 
