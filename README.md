@@ -4,7 +4,7 @@
 🎓 Estudiante de segundo año de la Tecnicatura Universitaria en Programación en la UTN.
 
 ⭐- Además de mis aprendizajes en la universidad, me gusta aprender por mi cuenta...
-- Estoy aprendiendo de forma autodidacta:
+- Sigo aprendiendo de forma autodidacta:
 	- Desarrollo web
 	- Python
  		 
